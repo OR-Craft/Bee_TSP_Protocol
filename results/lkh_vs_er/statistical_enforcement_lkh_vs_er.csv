@@ -1,0 +1,10 @@
+instance,integrator_a,integrator_b,n_samples,p_value,effect_size_cliffs_delta,ci_95_lower,ci_95_upper,protocol_compliant
+berlin52_lkh_vs_EdgeRand,lkh_1.0s,EdgeRand_1.0s,30,1e-15,1.0,0.0,0.0,True
+berlin52_lkh_vs_EdgeRand,lkh_30.0s,EdgeRand_30.0s,30,1e-15,1.0,0.0,0.0,True
+berlin52_lkh_vs_EdgeRand,lkh_300.0s,EdgeRand_300.0s,30,1e-15,1.0,0.0,0.0,True
+dsj1000_lkh_vs_EdgeRand,lkh_1.0s,EdgeRand_1.0s,30,1.862645149230957e-09,1.0,-539543545.23,-533592992.5425,True
+dsj1000_lkh_vs_EdgeRand,lkh_30.0s,EdgeRand_30.0s,30,1e-15,1.0,0.0,0.0,True
+dsj1000_lkh_vs_EdgeRand,lkh_300.0s,EdgeRand_300.0s,30,1e-15,1.0,0.0,0.0,True
+eil51_lkh_vs_EdgeRand,lkh_1.0s,EdgeRand_1.0s,30,1e-15,1.0,0.0,0.0,True
+eil51_lkh_vs_EdgeRand,lkh_30.0s,EdgeRand_30.0s,30,1e-15,1.0,0.0,0.0,True
+eil51_lkh_vs_EdgeRand,lkh_300.0s,EdgeRand_300.0s,30,1e-15,1.0,0.0,0.0,True
