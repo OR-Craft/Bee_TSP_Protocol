@@ -1,0 +1,8 @@
+{
+  "cpu": "x86_64",
+  "memory_gb": 16.6,
+  "os": "Linux 6.14.0-35-generic",
+  "python": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+  "cpu_count": 12,
+  "linpack_mflops": "Not run"
+}
