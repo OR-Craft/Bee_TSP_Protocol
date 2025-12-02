@@ -1,0 +1,9 @@
+{
+  "tsplib_dir": "data/tsplib",
+  "instances": ["dsj1000"],
+  "integrators": ["lkh"],
+  "budgets": [30.0],
+  "seeds": [1, 2, 3, 4, 5],
+  "candidate_k": 30,
+  "aws_hourly_rate": 0.34
+}

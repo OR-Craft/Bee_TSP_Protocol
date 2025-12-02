@@ -1,0 +1,9 @@
+{
+  "tsplib_dir": "data/tsplib",
+  "instances": ["eil51"],
+  "integrators": ["lkh"],
+  "budgets": [1.0],
+  "seeds": [42, 43, 44, 45, 46],
+  "candidate_k": 30,
+  "aws_hourly_rate": 0.0
+}
