@@ -33,8 +33,8 @@ Instances generated with documented provenance:
 - **Generator**: PCG64 (NumPy default)
 - **Python**: 3.8.11
 - **NumPy**: 1.19.0  
-- **Seeds**: 1001-1030
-- **Distribution**: Uniform integer coordinates in [0, 1000]²
+- **Seeds**: 0-29
+- **Distribution**: Uniform integer coordinates in [0, 10000]²
 
 ## Citation
 ```bibtex
